@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "skills": {
+    "agent-browser-clawdbot": {
+      "version": "0.1.0",
+      "installedAt": 1775522148988
+    },
+    "super-websearch-realtime": {
+      "version": "1.0.0",
+      "installedAt": 1775522155028
+    },
+    "browser-automation": {
+      "version": "1.0.1",
+      "installedAt": 1775522194984
+    },
+    "reading-knowledge": {
+      "version": "1.0.0",
+      "installedAt": 1775522206645
+    },
+    "web-fetch-markdown": {
+      "version": "1.0.0",
+      "installedAt": 1775522217454
+    }
+  }
+}
